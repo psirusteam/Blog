@@ -1,0 +1,17 @@
+---
+title: "Prueba2"
+author: "AG"
+date: '2022-05-07'
+slug: prueba2
+categories: R
+tags: plot
+---
+
+Then we are going to start this post by this and that
+
+```{r}
+library(TeachingSampling)
+data(BigLucy)
+plot(BigLucy$Income, BigLucy$Taxes)
+```
+
