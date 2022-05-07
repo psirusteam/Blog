@@ -1,6 +1,6 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2022-05-07T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Bayesian useR, spReading the woRd... This is Andres' website... You can find information about my recent projects, academic production, and some realted stuff. I hold a Ph.D. in Statistics and my main interest are survey sampling, small area estimation, and household surveys. Since 2017 I serve for UN-ECLAC as the Regional Advisor on Social Statistics.
